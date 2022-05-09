@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="Kite" displayType="STICKY_BALLOON" playSound="true" />
+  </component>
+</application>
